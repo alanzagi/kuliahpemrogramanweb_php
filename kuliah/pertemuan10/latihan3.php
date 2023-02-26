@@ -14,6 +14,8 @@ $mobil = query("SELECT * FROM mobil");
 
 <body>
   <h3>Daftar Mobil</h3>
+  <a href="tambah.php">Tambah Data Mobil</a>
+  <br><br>
   <table border="1" cellpadding="10" cellspacing="0">
     <tr>
       <th>$</th>
